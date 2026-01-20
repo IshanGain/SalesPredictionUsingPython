@@ -12,8 +12,8 @@ FEATURES:
 - Saved model artifact sales_prediction_model.pkl and features.pkl for fast inference via the app.
 
 INSTALLATION:
-- git clone https://github.com/IshanGain/CodeAlpha_SalesPredictionUsingPython.git
-- cd CodeAlpha_SalesPredictionUsingPython
+- git clone https://github.com/IshanGain/SalesPredictionUsingPython.git
+- cd SalesPredictionUsingPython
 - pip install -r requirements.txt
 
 - Ensure Python and all dependencies listed in requirements.txt are installed in your environment.
@@ -32,7 +32,7 @@ WEB APP (python app.py):
 - The app will display predicted units sold (in thousands) and may also show the model’s R² score and other summary info, similar to the dashboard UI in the screenshot.
 
 PROJECT STRUCTURE:
-- CodeAlpha_SalesPredictionUsingPython/
+- SalesPredictionUsingPython/
 - ├── Advertising.csv          # Dataset
 - ├── SalesPrediction.ipynb    # EDA + model training notebook
 - ├── app.py                   # Web app for predictions
