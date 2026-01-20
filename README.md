@@ -2,7 +2,7 @@ SALES PREDICTION:
 - This project predicts the units of sales (in thousands) using a Linear Regression model trained on advertising data. The model estimates sales based on how much budget is spent on TV, Radio, and Newspaper advertising, and the predictions are served through a clean web interface where users can input budgets and see the estimated units sold along with model performance.
 
 LIVE DEMO:
-- https://codealpha-salespredictionusingpython.onrender.com/
+- https://salespredictionusingpython.onrender.com/
 
 FEATURES:
 - Supervised learning with Linear Regression on the classic advertising dataset Advertising.csv.
